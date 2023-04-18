@@ -10,6 +10,3 @@ while cv2.waitKey(33) < 0:
 
 capture.release()
 cv2.destroyAllWindows()
-
-
-#픽셀 하나하나를 다룰수 있도록
